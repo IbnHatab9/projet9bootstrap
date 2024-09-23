@@ -93,7 +93,8 @@ body {
         padding: 5px;
     }
 .ibon button {
-    width: 100%;
+    width: 20rem;
+    margin-left: 100px;
 }
 
     .input-group input {
