@@ -92,7 +92,9 @@ body {
         z-index: 1;
         padding: 5px;
     }
-
+.ibon button {
+    width: 100%;
+}
 
     .input-group input {
         display: none;
